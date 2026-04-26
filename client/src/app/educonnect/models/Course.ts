@@ -3,7 +3,6 @@ export class Course {
   courseName: string;
   description: string;
   teacherId: number;
-
   constructor(
     courseId: number,
     courseName: string,
